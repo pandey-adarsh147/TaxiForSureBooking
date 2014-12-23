@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaxiForSureBooking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- debug map key -->
+    <string name="map_key">AIzaSyANWK6g6I0Tj4TtqYI-4c1mouGn3Xnfdlg</string>
+    <string name="pickup">Pick up</string>
+    <string name="drop">Drop</string>
+    <string name="hint_enter_location">Enter location e.g. sector 22 gurgaon</string>
+    <string name="submit">Submit</string>
+    <string name="now">Now</string>
+    <string name="later">Later</string>
+    <string name="hatchback">Hatchback</string>
+    <string name="sedan">Sedan</string>
+    <string name="suv">SUV</string>
+    <string name="traveller_name">Traveller Name:</string>
+    <string name="mobile_number">Mobile number:</string>
+    <string name="traveller_lebel">Traveller</string>
+    <string name="contact">Contact</string>
+    <string name="pick_address">Pick address</string>
+    <string name="car">Car</string>
+    <string name="time">Time</string>
+    <string name="drop_point">Drop Point</string>
+    <string name="suggestion_key">AIzaSyCTlUpVl6lkBxWVHd_HllzLYqrfvbB3pIw</string>
+    <string name="ride">Ride</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
